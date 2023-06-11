@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_conversion_rates">ConversionRatesActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_add_currency">AddCurrencyActivity</string>
+
+    <string name="info_text">
+
+Many currencies of the world are traded by businesses,
+        individuals, and even nations. As of this writing,
+        the top six most popular currencies for trading are:
+
+U.S. dollar (USD)
+Euro (EUR)
+Japanese yen (JPY)
+Great British pound sterling (GBP)
+Australian dollar (AUD)
+Canadian dollar (CDN)
+In some cases, foreign currencies are used by other countries.
+        For example, Chinese exports may be priced in USD instead of
+        Renminbi (RMB), which translates to “the people’s currency.”
+        The U.S. dollar is the most commonly used and traded currency,
+        even if it isn’t technically the strongest currency of the world.
+
+        An exchange rate refers to the value of one currency in relation to another—for example,
+        how many Mexican pesos are equal to one U.S. dollar.
+
+        You can also think of an exchange rate as showing how much of one currency
+        can be bought by one unit of another. These rates are important for
+        people making international money transfers or planning overseas travel.
+
+Your trip may be more or less expensive in your home currency, depending on how strong it is compared to the currency of your destination.
+    </string>
+</resources>
